@@ -24,78 +24,90 @@
 
                 <li class="nav-item menu-open">
                     <a href="#" class="nav-link">
-                        <i class="nav-icon bi bi-speedometer"></i><p>Dashboard</p>
+                        <i class="nav-icon bi bi-speedometer"></i>
+                        <p>Dashboard</p>
                     </a>
 
                 </li>
                 <li class="nav-header">MASTER</li>
                 <li class="nav-item">
                     <a href="#" class="nav-link">
-                        <i class="nav-icon bi bi-box"></i><p>Kategori</p>
+                        <i class="nav-icon bi bi-box"></i>
+                        <p>Kategori</p>
                     </a>
                 </li>
                 <li class="nav-item">
                     <a href="#" class="nav-link">
-                        <i class="nav-icon bi bi-boxes"></i><p>Produk</p>
+                        <i class="nav-icon bi bi-boxes"></i>
+                        <p>Produk</p>
                     </a>
 
                 </li>
                 <li class="nav-item">
                     <a href="#" class="nav-link">
-                        <i class="nav-icon bi bi-truck"></i><p>Distributor</p>
+                        <i class="nav-icon bi bi-truck"></i>
+                        <p>Distributor</p>
                     </a>
-                    
+
                 </li>
-            
+
                 <li class="nav-header">TRANSAKSI</li>
                 <li class="nav-item">
                     <a href="#" class="nav-link">
-                        <i class="nav-icon bi bi-cash"></i><p>Pengeluaran</p>
+                        <i class="nav-icon bi bi-cash"></i>
+                        <p>Pengeluaran</p>
                     </a>
                 </li>
                 <li class="nav-item">
                     <a href="#" class="nav-link">
-                        <i class="nav-icon bi bi-download"></i><p>Pembelian</p>
+                        <i class="nav-icon bi bi-download"></i>
+                        <p>Pembelian</p>
                     </a>
 
                 </li>
                 <li class="nav-item">
                     <a href="#" class="nav-link">
-                        <i class="nav-icon bi bi-upload"></i><p>Penjualan</p>
+                        <i class="nav-icon bi bi-upload"></i>
+                        <p>Penjualan</p>
                     </a>
-                    
+
                 </li>
                 <li class="nav-item">
                     <a href="#" class="nav-link">
-                        <i class="nav-icon bi bi-cart-fill"></i><p>Transaksi Lama</p>
+                        <i class="nav-icon bi bi-cart-fill"></i>
+                        <p>Transaksi Lama</p>
                     </a>
                 </li>
                 <li class="nav-item">
                     <a href="#" class="nav-link">
-                        <i class="nav-icon bi bi-cart-plus"></i><p>Transaksi Baru</p>
+                        <i class="nav-icon bi bi-cart-plus"></i>
+                        <p>Transaksi Baru</p>
                     </a>
                 </li>
 
                 <li class="nav-header">LAPORAN</li>
                 <li class="nav-item">
                     <a href="#" class="nav-link">
-                        <i class="nav-icon bi bi-file-earmark-pdf"></i><p>Laporan Keuangan</p>
+                        <i class="nav-icon bi bi-file-earmark-pdf"></i>
+                        <p>Laporan Keuangan</p>
                     </a>
                 </li>
-            
+
                 <li class="nav-header">PENGATURAN</li>
                 <li class="nav-item">
                     <a href="#" class="nav-link">
-                        <i class="nav-icon bi bi-people"></i><p>Kasir</p>
+                        <i class="nav-icon bi bi-people"></i>
+                        <p>Kasir</p>
                     </a>
                 </li>
                 <li class="nav-item">
                     <a href="#" class="nav-link">
-                        <i class="nav-icon bi bi-gear"></i><p>Pengaturan</p>
+                        <i class="nav-icon bi bi-gear"></i>
+                        <p>Pengaturan</p>
                     </a>
 
                 </li>
-            
+
             </ul>
             <!--end::Sidebar Menu-->
         </nav>
