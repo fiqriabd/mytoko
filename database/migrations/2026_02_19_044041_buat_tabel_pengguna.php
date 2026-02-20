@@ -20,7 +20,7 @@ return new class extends Migration
             $tabel->tinyInteger('level')->default(0);
             $tabel->rememberToken();
             $tabel->foreignId('current_team_id')->nullable();
-            $tabel->text('path_foto_profil');
+            $tabel->text('path_foto_profil')->nullable();
             $tabel->timestamps();
     });
     }
