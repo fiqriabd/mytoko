@@ -97,7 +97,7 @@
                 <li class="nav-item">
                     <a href="#" class="nav-link">
                         <i class="nav-icon bi bi-people"></i>
-                        <p>Kasir</p>
+                        <p>Pengguna</p>
                     </a>
                 </li>
                 <li class="nav-item">

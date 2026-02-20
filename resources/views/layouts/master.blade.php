@@ -4,7 +4,7 @@
 
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <title>AdminLTE v4 | Dashboard</title>
+  <title>My Toko</title>
   <!--begin::Accessibility Meta Tags-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <meta name="color-scheme" content="light dark" />
@@ -12,7 +12,7 @@
   <meta name="theme-color" content="#1a1a1a" media="(prefers-color-scheme: dark)" />
   <!--end::Accessibility Meta Tags-->
   <!--begin::Primary Meta Tags-->
-  <meta name="title" content="AdminLTE v4 | Dashboard" />
+  <meta name="title" content="My Toko" />
   <meta name="author" content="ColorlibHQ" />
   <meta name="description"
     content="AdminLTE is a Free Bootstrap 5 Admin Dashboard, 30 example pages using Vanilla JS. Fully accessible with WCAG 2.1 AA compliance." />
