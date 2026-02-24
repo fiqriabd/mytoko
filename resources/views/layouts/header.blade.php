@@ -5,7 +5,7 @@
         <!--begin::Start Navbar Links-->
         <ul class="navbar-nav">
             <li class="nav-item">
-                <a class="nav-link" data-lte-toggle="push-menu" href="#" role="button">
+                <a class="nav-link" data-widget="push-menu" href="#" role="button">
                     <i class="bi bi-list"></i>
                 </a>
             </li>

@@ -74,14 +74,8 @@
                 </li>
                 <li class="nav-item">
                     <a href="#" class="nav-link">
-                        <i class="nav-icon bi bi-cart-fill"></i>
-                        <p>Transaksi Lama</p>
-                    </a>
-                </li>
-                <li class="nav-item">
-                    <a href="#" class="nav-link">
                         <i class="nav-icon bi bi-cart-plus"></i>
-                        <p>Transaksi Baru</p>
+                        <p>Transaksi</p>
                     </a>
                 </li>
 
