@@ -5,11 +5,9 @@
         <!--begin::Brand Link-->
         <a href="#" class="brand-link">
             <!--begin::Brand Image-->
-            <img src="{{ asset('AdminLTE/dist/assets/img/AdminLTELogo.png') }}" alt="AdminLTE Logo"
-                class="brand-image opacity-75 shadow" />
+            <img src="{{ asset('imagez/my-toko-logo.svg') }}" alt="my-toko-logo.svg">
             <!--end::Brand Image-->
             <!--begin::Brand Text-->
-            <span class="brand-text fw-light">My Toko</span>
             <!--end::Brand Text-->
         </a>
         <!--end::Brand Link-->
