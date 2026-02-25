@@ -7,8 +7,7 @@
             <!--begin::Brand Image-->
             <img src="{{ asset('imagez/my-toko-logo.svg') }}" alt="my-toko-logo.svg">
             <!--end::Brand Image-->
-            <!--begin::Brand Text-->
-            <!--end::Brand Text-->
+
         </a>
         <!--end::Brand Link-->
     </div>
@@ -29,7 +28,7 @@
                 </li>
                 <li class="nav-header">MASTER</li>
                 <li class="nav-item">
-                    <a href="#" class="nav-link">
+                    <a href="{{ route('kategori.index') }}" class="nav-link">
                         <i class="nav-icon bi bi-box"></i>
                         <p>Kategori</p>
                     </a>
